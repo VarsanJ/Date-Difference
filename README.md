@@ -1,0 +1,1 @@
+A date difference will consider leap years and month lengths to determine the difference between two dates. The code can be found on program.cs. This program was made on C#. As a challenge, only conditional loops were used for the calculator. 
